@@ -1,0 +1,105 @@
+[
+    {
+    "name": "Casual Sneaker Shoes for Men | Stylish and Comfortable",
+    "price": 440.57,
+    "description": "Men's Casual Low-Cut Lace-Up Shoes – your new go-to footwear for everyday comfort and style. These shoes are designed to look great while keeping your feet comfy. The sole is made from a mix of EVA and rubber, giving you softness and toughness combined, so you can walk without worries.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "https://i.postimg.cc/WzzHMp8s/shoe3.jpg"
+      }
+    ],
+    "category": "Shoes",
+    "seller": "Amazon",
+    "stock": 90
+  },
+  {
+    "name": "Amazon basics X20G 16W Bluetooth Soundbar with 2000mAh Battery",
+    "price": 2250.45,
+    "description": "Amazon basics X20G 16W Bluetooth Soundbar with 2000mAh Battery | 2X Bass | Up to 7 hrs of Playback | RGB Lights | Bluetooth 5.3, Aux & USB Connectivity (Black) ",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "https://i.postimg.cc/Dym9G6p1/amazonspeaker.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 900
+  },
+  {
+    "name": "ASIAN Men's Tarzan-11 White Casual Sneaker",
+    "price": 1245.67,
+    "description": "Lightweight & Breathable : Exclusive design and durable materials every step feels light and breezy. Breathable, free-moving fabrics which adjust according to your foot and creates an astoundingly easy-going experience.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "https://i.postimg.cc/vTKSXR2f/shoe1.jpg"
+      }
+    ],
+    "category": "Shoes",
+    "seller": "Amazon",
+    "stock": 50
+  },
+  {
+    "name": "Nikon D7500 20.9MP Digital SLR Camera",
+    "price": 104150.32,
+    "description": "20.9MP DX-Format CMOS Sensor, SnapBridge Bluetooth and Wi-Fi;4K UHD Video Recording at 30 fps and Multi-CAM 3500FX II 51-Point AF System.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "https://i.postimg.cc/CMvydX7F/nikon.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Rakuten",
+    "stock": 29
+  },
+  {
+    "name": "PTron WRISTIO HD, Bluetooth Calling Smart Watch",
+    "price": 1315.46,
+    "description": "Gigantic 60 + Hours on a single charge and Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "https://i.postimg.cc/jjYmGbxh/watch1.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Campus Men's Maxico Running Shoes",
+    "price": 1010.12,
+    "description": "The high raised back cover with extra padding.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "https://i.postimg.cc/L81GCXpX/shoe4.jpg"
+      }
+    ],
+    "category": "Shoes",
+    "seller": "Ebay",
+    "stock": 69
+  },
+  {
+    "name": "Campus Men's Casual Shoes",
+    "price": 1010.12,
+    "description": "Non Slip & Shockproof and the high raised back cover with extra padding.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "https://i.postimg.cc/3wZSV0bK/shoe2.jpg"
+      }
+    ],
+    "category": "Shoes",
+    "seller": "Ebay",
+    "stock": 69
+  }
+
+
+]
+
+
+  

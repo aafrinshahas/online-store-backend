@@ -1,0 +1,434 @@
+[{
+    
+    "title": "OPPO F21s Pro 5G",
+    "isNew": true,
+    "oldPrice": "14999",
+    "price": 12245,
+    "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+    "rating": 4.5,
+    "image": "https://i.postimg.cc/Pqmsxq3c/oppo.jpg",
+    "category": "Mobiles",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    
+    "title": "WRISTIO HD, Bluetooth Calling Smart Watch",
+    "isNew": true,
+    "oldPrice": "1499",
+    "price": 1150,
+    "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+    "ratings": 3.5,
+   "image": "https://i.postimg.cc/sxgtw4jd/watch.jpg",
+    "category": "Accessories",
+    "seller": "Rakuten",
+    "stock": 9
+  },
+  {
+    
+    "title": "Dell Inspiron 3511 Laptop",
+    "isNew": true,
+    "oldPrice": "56789",
+    "price": 48440,
+    "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+    "ratings": 2,
+   "image": "https://i.postimg.cc/XYB6RLwn/dell.jpg",
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    
+    "title": "Lenovo IdeaPad Slim 3 Laptop",
+    "isNew": true,
+    "oldPrice": "83100",
+    "price": 78250,
+    "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+    "ratings": 4,
+    "image": "https://i.postimg.cc/6QsxtZ0n/dell1.jpg",
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    
+    "title": "ASUS VivoBook 15 Laptop",
+    "isNew": true,
+    "oldPrice": "61300",
+    "price": 56767,
+    "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+    "ratings": 5,
+    "image": "https://i.postimg.cc/nVTxBCFf/asus.jpg",
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    
+    "title": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+    "isNew": false,
+    "oldPrice": "1399",
+    "price": 1115,
+    "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+    "ratings": 5,
+    "image": "https://i.postimg.cc/zB8mR14f/ptron.jpg",
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    
+    "title": "Campus Men's Maxico Running Shoes",
+    "isNew": false,
+    "oldPrice": "999",
+    "price": 810,
+    "description": "The high raised back cover with extra padding.",
+    "ratings": 3,
+    "image": "https://i.postimg.cc/pX6tc450/campus.jpg",
+    "category": "Shoes",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "isNew": false,
+    "oldPrice": "1199",
+    "price": 1000,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "ratings": 3.9,
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "category": "Men Fashion",
+    "seller": "Amazon",
+    "stock": 120
+  },
+  {
+    
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "isNew": false,
+    "oldPrice": "1999",
+    "price": 1499,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "ratings": 4.1,
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "category": "Men Fashion",
+    "seller": "Amazon",
+    "stock": 259
+  },
+  {
+    
+    "title": "Mens Cotton Jacket",
+    "isNew": false,
+    "oldPrice": "2100",
+    "price": 1999,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "ratings": 4.7,
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "category": "Men Fashion",
+    "seller": "Ebay",
+    "stock": 500
+  },
+  {
+    
+    "title": "Mens Casual Slim Fit",
+    "isNew": false,
+    "oldPrice": "1230",
+    "price": 999,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "ratings": 2.1,
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "category": "Men Fashion",
+    "seller": "Ebay",
+    "stock": 430
+  },
+  {
+    
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "isNew": false,
+    "oldPrice": "999",
+    "price": 695,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "ratings": 4.6,
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "category": "Accessories",
+    "seller": "Walmart",
+    "stock": 400
+  },
+  {
+    
+    "title": "Solid Gold Petite Micropave",
+    "isNew": false,
+    "oldPrice": "599",
+    "price": 168,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "ratings": 3.9,
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "category": "Accessories",
+    "seller": "Walmart",
+    "stock": 70
+  },
+  {
+    
+    "title": "White Gold Plated Princess",
+    "isNew": true,
+    "oldPrice": "799",
+    "price": 299,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "ratings": 3,
+   "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "category": "Accessories",
+    "seller": "Walmart",
+    "stock": 120
+  },
+  {
+    
+    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0",
+    "isNew": false,
+    "oldPrice": "1530",
+    "price": 1299,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "ratings": 3.3,
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 120
+  },
+  {
+    
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "isNew": false,
+    "oldPrice": "999",
+    "price": 679,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "ratings": 3.3,
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 470
+  },
+  {
+    
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "isNew": false,
+    "oldPrice": "999",
+    "price": 479,
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+    "ratings": 4.8,
+   "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 270
+  },
+  {
+    
+    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "isNew": false,
+    "oldPrice": "1999",
+    "price": 1479,
+    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty.",
+    "ratings": 4.8,
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 570
+  },
+  {
+    
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "isNew": true,
+    "oldPrice": "53100",
+    "price": 40000,
+    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz.",
+    "ratings": 4.8,
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "category": "Electronics",
+    "seller": "Rakuten",
+    "stock": 570
+  },
+  {
+    
+    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED",
+    "isNew": true,
+    "oldPrice": "31000",
+    "price": 25000,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag.",
+    "ratings": 2.2,
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 570
+  },
+  {
+    
+    "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "isNew": false,
+    "oldPrice": "1999",
+    "price": 1341,
+    "description": "The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates.",
+    "ratings": 4.2,
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "category": "Women Fashion",
+    "seller": "Ebay",
+    "stock": 356
+  },
+  {
+    
+    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "isNew": false,
+    "oldPrice": "2499",
+    "price": 2100,
+    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON.",
+    "ratings": 4.2,
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "category": "Women Fashion",
+    "seller": "Amazon",
+    "stock": 756
+  },
+  {
+    
+    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "isNew": false,
+    "oldPrice": "3499",
+    "price": 3310,
+    "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+    "ratings": 4.2,
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "category": "Women Fashion",
+    "seller": "Amazon",
+    "stock": 956
+  },
+  {
+    
+    "title": "MBJ Women's Solid Short Sleeve Boat Neck V",
+    "isNew": false,
+    "oldPrice": "1689",
+    "price": 1310,
+    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem.",
+    "ratings": 4.7,
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "category": "Women Fashion",
+    "seller": "Amazon",
+    "stock": 130
+  },
+  {
+    
+    "title": "Opna Women's Short Sleeve Moisture",
+    "isNew": false,
+    "oldPrice": "999",
+    "price": 499,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort.",
+    "ratings": 3.7,
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+    "category": "Women Fashion",
+    "seller": "Amazon",
+    "stock": 530
+  },
+  {
+    
+    "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+    "isNew": false,
+    "oldPrice": "679",
+    "price": 299,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "ratings": 3.7,
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "category": "Women Fashion",
+    "seller": "Amazon",
+    "stock": 145
+  },
+  {
+    
+  "title": "Casual Sneaker Shoes for Men | Stylish and Comfortable",
+  "isNew": false,
+  "oldPrice": "999",
+  "price": 440,
+  "description": "Men's Casual Low-Cut Lace-Up Shoes – your new go-to footwear for everyday comfort and style. These shoes are designed to look great while keeping your feet comfy. The sole is made from a mix of EVA and rubber, giving you softness and toughness combined, so you can walk without worries.",
+  "ratings": 4.2,
+  "image": "https://i.postimg.cc/WzzHMp8s/shoe3.jpg",
+  "category": "Shoes",
+  "seller": "Amazon",
+  "stock": 90
+},
+{
+  
+  "title": "Amazon basics X20G 16W Bluetooth Soundbar with 2000mAh Battery",
+  "isNew": false,
+  "oldPrice": "999",
+  "price": 2250,
+  "description": "Amazon basics X20G 16W Bluetooth Soundbar with 2000mAh Battery | 2X Bass | Up to 7 hrs of Playback | RGB Lights | Bluetooth 5.3, Aux & USB Connectivity (Black) ",
+  "ratings": 4,
+  "image": "https://i.postimg.cc/Dym9G6p1/amazonspeaker.jpg",
+  "category": "Electronics",
+  "seller": "Amazon",
+  "stock": 900
+},
+{
+  
+  "title": "ASIAN Men's Tarzan-11 White Casual Sneaker",
+  "isNew": true,
+  "oldPrice": "1999",
+  "price": 1245,
+  "description": "Lightweight & Breathable : Exclusive design and durable materials every step feels light and breezy. Breathable, free-moving fabrics which adjust according to your foot and creates an astoundingly easy-going experience.",
+  "ratings": 4.5,
+  "image": "https://i.postimg.cc/vTKSXR2f/shoe1.jpg",
+  "category": "Shoes",
+  "seller": "Amazon",
+  "stock": 50
+},
+{
+  
+  "title": "Nikon D7500 20.9MP Digital SLR Camera",
+  "isNew": true,
+  "oldPrice": "124150",
+  "price": 104150,
+  "description": "20.9MP DX-Format CMOS Sensor, SnapBridge Bluetooth and Wi-Fi;4K UHD Video Recording at 30 fps and Multi-CAM 3500FX II 51-Point AF System.",
+  "ratings": 4.5,
+  "image": "https://i.postimg.cc/CMvydX7F/nikon.jpg",
+  "category": "Electronics",
+  "seller": "Rakuten",
+  "stock": 29
+},
+{
+  
+  "title": "PTron WRISTIO HD, Bluetooth Calling Smart Watch",
+  "isNew": false,
+  "oldPrice": "1999",
+  "price": 1315,
+  "description": "Gigantic 60 + Hours on a single charge and Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation",
+  "ratings": 5,
+  "image": "https://i.postimg.cc/jjYmGbxh/watch1.jpg",
+  "category": "Accessories",
+  "seller": "Amazon",
+  "stock": 4
+},
+{
+  
+  "title": "Campus Men's Maxico Running Shoes",
+  "isNew": false,
+  "oldPrice": "1999",
+  "price": 1010,
+  "description": "The high raised back cover with extra padding.",
+  "ratings": 3,
+  "image": "https://i.postimg.cc/L81GCXpX/shoe4.jpg",
+  "category": "Shoes",
+  "seller": "Ebay",
+  "stock": 69
+},
+{
+  
+  "title": "Campus Men's Casual Shoes",
+  "isNew": false,
+  "oldPrice": "1999",
+  "price": 1010,
+  "description": "Non Slip & Shockproof and the high raised back cover with extra padding.",
+  "ratings": 3,
+  "image": "https://i.postimg.cc/3wZSV0bK/shoe2.jpg",
+  "category": "Shoes",
+  "seller": "Ebay",
+  "stock": 69
+}
+
+]
+
+
+  
